@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reel Tracker</string>
+    <string name="svc_desc">Counts reels/shorts you scroll, shows a live counter and blocks selected apps after your daily limit.</string>
+</resources>
